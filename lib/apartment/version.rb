@@ -1,3 +1,3 @@
 module Apartment
-  VERSION = "2.0.0"
+  VERSION = "1.9.0" # local fix, to comply with apartment-sidekiq
 end
